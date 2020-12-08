@@ -8,7 +8,7 @@ function WishListScreen(props) {
     return (
         <Screen style={styles.container}>
             <View style={styles.textContainer}>
-                <Text style={defaultStyles.text}>Hello adam!</Text>
+                <Text style={defaultStyles.text}>Hello ash!</Text>
             </View>
             <View style={styles.textContainer}>
                 <Text style={defaultStyles.text}>Hello adam!</Text>
